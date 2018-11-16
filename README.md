@@ -1,0 +1,2 @@
+# CAICT-Serverless
+主要记录了信通院关于Serverless标准制定及白皮书撰写的一些工作，欢迎各位技术专家积极参与讨论，为推进Serverless生态在国内的发展和完善出一份力量。
