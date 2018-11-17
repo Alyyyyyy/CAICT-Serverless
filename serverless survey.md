@@ -4,7 +4,6 @@
 
 [点击此处参与问卷调查](https://www.wjx.cn/jq/30924733.aspx)
 
-<script type='text/javascript' src='https://www.wjx.cn/handler/jqemed.ashx?activity=30924733&width=760&source=iframe'></script>
 
 ## 1. 您如何描述贵司使用无服务技术的程度？
 - A  这对我们的核心业务至关重要
